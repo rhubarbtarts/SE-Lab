@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+pharmacy.dat
+
+venv/
+pharmacy.json
